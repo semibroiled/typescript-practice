@@ -13,3 +13,5 @@ let a = 'hello world'
 console.log(a)
 let a = (4)
 console.log(4 / []);
+
+//Moving on

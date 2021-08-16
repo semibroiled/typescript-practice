@@ -11,3 +11,5 @@ function square(num) {
   console.log(n);
 let a = 'hello world'
 console.log(a)
+let a = (4)
+console.log(4 / []);
